@@ -1,0 +1,24 @@
+body {
+    background-color: #b4dbe6;
+    font-family: Papyrus;
+    vertical-align: top;
+
+}
+div{
+    width: 700px;
+    margin: auto;
+    text-align: center;
+
+}
+button {
+    width: 60px;
+    color: #000000;
+}
+img{
+    margin: 50px;
+    width: 300px;
+}
+
+#output{
+    margin-top: 50px;
+}
